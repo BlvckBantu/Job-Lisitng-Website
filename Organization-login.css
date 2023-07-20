@@ -1,0 +1,31 @@
+body{
+    background: url('images/Logo2.jfif');
+    background-size: cover;
+    background-position: center;
+    background-color: blanchedalmond;
+}
+
+
+.login-box{
+    max-width: 700px;
+    float: none;
+    margin: 200px auto;
+    margin-top: 100px;
+}
+
+.login-left{
+    background-color: rgb(112, 149, 96);
+    padding: 30px;
+    color: black;
+}
+
+.login-right{
+    background: rgb(74, 216, 14);
+    padding: 30px;
+    color: black;
+}
+
+.form-control{
+    background-color: transparent !important;
+    
+}
